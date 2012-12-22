@@ -1,0 +1,13 @@
+{
+  "name": "heylewis.com",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.5",
+    "jade": "*",
+    "less-middleware": "*",
+    "node-markdown": "~0.1.1"
+  }
+}
