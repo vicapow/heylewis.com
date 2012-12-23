@@ -3,7 +3,8 @@ var fs = require('fs')
 
 module.exports = function(app){
   app.post('/github-hook', function(req, res, next){
-    console.log('request for github-hook: ' + req.connection.remoteAddress)
+    var ip = req.header('x-forwarded-for') || req.connection.remoteAddress
+    console.log('request for github-hook: ' + ip)
     res.send(200)
   })
 }
