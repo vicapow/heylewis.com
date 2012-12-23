@@ -11,7 +11,10 @@ module.exports = function(app){
     if( ip !== '207.97.227.253'
       && ip !== '50.57.128.197'
       && ip !== '108.171.174.178'
-    ) return res.send(404) // the request didn't come from github
+    ) {
+      console.log('the request did no come from a valid github server')
+      return res.send(404) // the request didn't come from github
+    }
 
     // executes `pwd`
     var child = exec(".git/hooks/post-receive", function (error, stdout, stderr) {
