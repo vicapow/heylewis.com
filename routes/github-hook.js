@@ -24,6 +24,8 @@ module.exports = function(app){
       if (error !== null) {
         console.log('exec error: ' + error)
       }
+      console.log('exiting')
+      process.exit()
     })
   })
 }
