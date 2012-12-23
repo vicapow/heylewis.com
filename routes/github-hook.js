@@ -17,6 +17,7 @@ module.exports = function(app){
     }
 
     console.log('executing child process')
+    console.log(process.cwd())
     var child = exec(".git/hooks/post-receive", function (error, stdout, stderr) {
       console.log('stdout...')
       sys.print('stdout: ' + stdout)
