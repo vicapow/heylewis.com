@@ -13,4 +13,5 @@ module.exports = function(app){
     })
   })
   require('./pages')(app)
+  require('./github-hook')(app)
 }
