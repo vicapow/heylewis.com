@@ -1,3 +1,10 @@
+* [Home](/)
+* <a href="/cv.pdf" target="_blank">CV</a>
+* [Bio](/bio.html)
+* [Writing](/writing.html)
+* [Video](/video.html)
+* [Endorsements](/endorsements.html)
+
 # My Writing
 
 here are some of the things that I've written

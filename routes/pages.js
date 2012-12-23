@@ -9,14 +9,7 @@ module.exports = function(app){
     fs.readFile('./docs/' + doc_name + '.markdown', function(err, doc){
       if(err) return next(err)
       var body = md(doc.toString())
-      fs.readFile('./docs/index.markdown', function(err, doc){
-        if(err) return next(err)
-        var menu = md(doc.toString())
-        res.render('page', { 
-          body : body
-          , menu : menu
-        })
-      })
+      res.render('page', { body : body })
     })
   })
 }
