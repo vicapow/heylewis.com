@@ -26,6 +26,7 @@ module.exports = function(app){
       }
       console.log('exiting')
       process.exit()
+      
     })
   })
 }
