@@ -1,5 +1,3 @@
-[back](/)
-
 # My Writing
 
 here are some of the things that I've written

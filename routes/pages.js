@@ -8,7 +8,15 @@ module.exports = function(app){
     console.log('doc name: ' + doc_name)
     fs.readFile('./docs/' + doc_name + '.markdown', function(err, doc){
       if(err) return next(err)
-      res.render('page', { body : md(doc.toString()) })
+      var body = md(doc.toString())
+      fs.readFile('./docs/index.markdown', function(err, doc){
+        if(err) return next(err)
+        var menu = md(doc.toString())
+        res.render('page', { 
+          body : body
+          , menu : menu
+        })
+      })
     })
   })
 }
