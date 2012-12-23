@@ -1,7 +1,5 @@
 [back](/writing.html)
 
-wow
-
 # Accents of Approval
 Originally published in the [Leeds Student Newspaper](http://www.leedsstudent.org/2012-05-01/ls2/observations/accents-of-approval)
 
