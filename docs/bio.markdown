@@ -1,4 +1,4 @@
-# BIO
+# Bio
 
 Have you ever seen _Fried Green Tomatoes_? I grew up behind a Wal-Mart near that cafe in Irondale, Alabama. By 18 I was an Eagle Scout and Prom King, and my face had fully developed into the likeness of Audrey Tatou.
 
