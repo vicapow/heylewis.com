@@ -1,5 +1,8 @@
 var fs = require('fs')
   , md = require("node-markdown").Markdown
+  , sys = require('sys')
+  , exec = require('child_process').exec
+
 
 module.exports = function(app){
   app.post('/github-hook', function(req, res, next){
@@ -9,6 +12,14 @@ module.exports = function(app){
       && ip !== '50.57.128.197'
       && ip !== '108.171.174.178'
     ) return res.send(404) // the request didn't come from github
-    console.log(req.body)
+
+    // executes `pwd`
+    var child = exec(".git/hooks/post-receive", function (error, stdout, stderr) {
+      sys.print('stdout: ' + stdout)
+      sys.print('stderr: ' + stderr)
+      if (error !== null) {
+        console.log('exec error: ' + error)
+      }
+    })
   })
 }
