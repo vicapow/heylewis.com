@@ -35,10 +35,11 @@ Udacity is better for learning Python.
 
 ###Mindfulness
 
-[Mindfulness for Dummies](http://www.amazon.com/Mindfulness-Dummies-Book-Shamash-Alidina/dp/0470660864) is a great intro.
+[Mindfulness for Dummies](http://www.amazon.com/Mindfulness-Dummies-Book-Shamash-Alidina/dp/0470660864) is the introduction.
 
 [Chade-Meng Tang](http://www.nytimes.com/2007/09/01/technology/01google.html?_r=0), engineer at Google, stresses how easily you can incorporate
-mindfulness into a conventionally successful life. Check out his [bestseller](http://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116924).
+mindfulness into a conventionally successful life. Check out his [bestseller](http://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116924
+although Mindfulness for Dummies goes more in-depth as a practical guide if you want to get serious.
 
 [Jon Kabat-Zinn](http://www.youtube.com/watch?v=3nwwKbM_vJc), professor at U-Mass med school, helped bring mindfulness into modernity.
 
