@@ -5,7 +5,7 @@
 * [Video](/video.html)
 * [Endorsements](/endorsements.html)
 
-# My Writing
+# Writing
 
 I like to write for websites and student papers.
 
