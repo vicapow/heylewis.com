@@ -11,7 +11,7 @@
 My Dad is a city planner who does natural hazard mitigation on the Gulf Coast. Maybe for that reason I'm
 fascinated by forecasting...its difficulty and humanity's relative lack of interest in its accuracy.
 
-[Bent Flyvbjerg](http://www.sbs.ox.ac.uk/research/people/Pages/BentFlyvbjerg.aspx) says governments are mislead about the costs and benefits of large projects, specially rail.
+[Bent Flyvbjerg](http://www.sbs.ox.ac.uk/research/people/Pages/BentFlyvbjerg.aspx) says governments are mislead about the costs and benefits of large projects.
 He's willing to [call people out](http://www.sbs.ox.ac.uk/newsandevents/releases/Pages/Foolsandliars.aspx). 
 
 [Nassim Nicholas Taleb](http://www.fooledbyrandomness.com/) is famous for writing The Black Swan. I'm allergic to everything about this man's style.
