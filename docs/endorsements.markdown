@@ -33,33 +33,48 @@ forecasts by founding the [Good Judgement Project](http://goodjudgmentproject.co
 [Udacity](http://www.udacity.com/) and [Code Academy](http://www.codecademy.com/) taught me coding.
 Udacity is better for learning Python.
 
-###Literature
-
-[Dave Eggers](http://en.wikipedia.org/wiki/Dave_Eggers), founder of McSweeney's and author of What is the What, A Heartbreaking Work
-of Staggering Genius, and A Hologram for the King, is probably my favorite author if I put pretensions aside.
-
-[Mario Vargas Llosa](http://www.nobelprize.org/nobel_prizes/literature/laureates/2010/vargas_llosa-lecture_en.html), Peruvian nobel laureate,
-writes about Latin America and friendship better than anyone. 
-[La Ciudad y los Perros](http://en.wikipedia.org/wiki/The_Time_of_the_Hero) is the best portrayal of how awful kids can be.
-
 ###Mindfulness
 
 [Mindfulness for Dummies](http://www.amazon.com/Mindfulness-Dummies-Book-Shamash-Alidina/dp/0470660864) is a great intro.
 
 [Chade-Meng Tang](http://www.nytimes.com/2007/09/01/technology/01google.html?_r=0), engineer at Google, stresses how easily you can incorporate
-mindfulness into a conventionally successful life; that it's not about retreat. Check out his [bestseller](http://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116924).
+mindfulness into a conventionally successful life. Check out his [bestseller](http://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116924).
 
 [Jon Kabat-Zinn](http://www.youtube.com/watch?v=3nwwKbM_vJc), professor at U-Mass med school, helped bring mindfulness into modernity.
 
 ###Transportation & Urbanism
 
-[Transportationist](http://blog.lib.umn.edu/levin031/transportationist/) is the one-stop shop for transportation. David Levinson is almost
-as productive as Dave Eggers.
+[Transportationist](http://blog.lib.umn.edu/levin031/transportationist/) is the one-stop shop for transport information. 
 
 [Bus Rapid Transit](http://en.wikipedia.org/wiki/Bus_rapid_transit) is the H&M of transit: you get about 75% of the quality
 for 10% of the price. The best way to improve accessibility.
 
-[Antiplanner](http://ti.org/antiplanner/), or Randal O'Toole of Cato, highlights transportation failures that cities would
-love to gloss over.
+[Antiplanner](http://ti.org/antiplanner/), or Randal O'Toole of Cato, highlights failures.
 
 [Market Urbanism](http://marketurbanism.com/) means inclusive cities.
+
+###Motion Graphics
+
+[Greyscale Gorilla](http://greyscalegorilla.com/blog/) and [AETuts](http://ae.tutsplus.com/) teach After Effects.
+
+[Jr.caneste](http://vimeo.com/jrcanest) (Jorge Canedo Estrada) is my favorite animator even though it's intimidating that he's four years younger than me.
+
+[AeScripts](http://aescripts.com/) has saved me more hours than the automobile. Check out [Ease and Whiz](http://aescripts.com/ease-and-wizz/) and
+[Reposition Anchor Point](http://aescripts.com/repositionanchorpoint/).
+
+###Entertainment
+
+[Dave Eggers](http://en.wikipedia.org/wiki/Dave_Eggers), founder of McSweeney's and author of What is the What, A Heartbreaking Work
+of Staggering Genius, and A Hologram for the King, is my favorite author if I put pretensions aside. He puts together
+the [Best American Nonrequired Reading](http://www.hmhbooks.com/hmh/bestamerican/nonrequired) series--the Now That's What
+I Call Music! of short literature.
+
+[Mario Vargas Llosa](http://www.nobelprize.org/nobel_prizes/literature/laureates/2010/vargas_llosa-lecture_en.html), Peruvian nobel laureate,
+writes about Latin America and friendship better than anyone. 
+[La Ciudad y los Perros](http://en.wikipedia.org/wiki/The_Time_of_the_Hero) is the best portrayal of how awful kids can be.
+
+Podcasts: I'm addicted to [This American Life](http://www.thisamericanlife.org/) and [Radiolab](http://www.radiolab.org/). 
+[Paul F. Tompkins](http://pft.libsyn.com/) is the funniest mimic on Earth. The [New Yorker Fiction Podcast](http://www.newyorker.com/online/podcasts/fiction)
+makes you seem more intellectual.
+
+Music: The Pixies, Deerhoof, Fidlar, Raekwon, GZA, Shakira
