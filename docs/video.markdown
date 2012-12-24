@@ -9,7 +9,9 @@
 I make motion graphics and used to shoot video.
 
 [PriceRoads](/priceroadsvideos.html)
-Priceroads is an animated series to promote congestion pricing.
+
+PriceRoads is an animated series to promote congestion pricing.
 
 [Fun Videos](/funvideos.html)
-Stuff I made with friends.
+
+stuff I made with friends.
