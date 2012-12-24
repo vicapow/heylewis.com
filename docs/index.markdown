@@ -4,4 +4,4 @@
 * [Video](/video.html)
 * [Endorsements](/endorsements.html)
 
-The personal and professional website of Lewis Lehe, grad student at UC Berkeley.
+The website of Lewis Lehe, grad student at UC Berkeley.
