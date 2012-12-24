@@ -15,4 +15,4 @@ In 2010 I covered pipe & tube for a steel trade journal. By nights I practiced A
 
 In 2011 the University of Leeds gave me a scholarship to get a one-year MA in Transport Economics, because I'd made an animated series about congestion pricing. My MA dissertation was about specifying income in discrete choice models.
 
-Now I'm getting my MS/PhD in Transportation Engineering at UC Berkeley.
+Now I'm getting my MS/PhD in Transportation Engineering at UC Berkeley. My advisor is Carlos Daganzo and my research is about bottlenecks and the Macroscopic Fundamental Diagram.
