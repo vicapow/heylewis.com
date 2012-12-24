@@ -6,4 +6,60 @@
 * [Endorsements](/endorsements.html)
 
 # Endorsements
-## here are some endorsements
+
+###Forecasting
+My Dad is a city planner who does natural hazard mitigation on the Gulf Coast. Maybe for that reason I'm
+fascinated by forecasting...its difficulty and humanity's relative lack of interest in its accuracy.
+
+[Bent Flyvbjerg](http://www.sbs.ox.ac.uk/research/people/Pages/BentFlyvbjerg.aspx) says governments are mislead about the costs and benefits of large projects, specially rail.
+He's willing to [call people out](http://www.sbs.ox.ac.uk/newsandevents/releases/Pages/Foolsandliars.aspx). 
+
+[Nassim Nicholas Taleb](http://www.fooledbyrandomness.com/) is famous for writing The Black Swan. I'm allergic to everything about this man's style.
+He rambles. He grabs attention by insulting people. But he's right about design of systems and forecasting. The clearest mathematical summary of his ideas is [here](http://www.fooledbyrandomness.com/bmn.pdf). 
+And the [ludic fallacy](http://en.wikipedia.org/wiki/Ludic_fallacy) is a useful concept.
+
+[Philip Tetlock](http://www.newyorker.com/archive/2005/12/05/051205crbo_books1) is doing something about inaccurate
+forecasts by founding the [Good Judgement Project](http://goodjudgmentproject.com/). A good [interview](http://edge.org/conversation/win-at-forecasting).
+
+
+###Coding
+
+[Sympy](http://sympy.org/en/index.html) replaces Mathematica with Python for free and uses cleaner syntax.
+
+[Learn Latex in Seven Minutes](http://www.math.rug.nl/~ernst/latex/) actually takes longer than seven minutes.
+
+[D3.js](http://d3js.org/) beautifies data.
+
+[Udacity](http://www.udacity.com/) and [Code Academy](http://www.codecademy.com/) taught me coding.
+Udacity is better for learning Python.
+
+###Literature
+
+[Dave Eggers](http://en.wikipedia.org/wiki/Dave_Eggers), founder of McSweeney's and author of What is the What, A Heartbreaking Work
+of Staggering Genius, and A Hologram for the King, is probably my favorite author if I put pretensions aside.
+
+[Mario Vargas Llosa](http://www.nobelprize.org/nobel_prizes/literature/laureates/2010/vargas_llosa-lecture_en.html), Peruvian nobel laureate,
+writes about Latin America and friendship better than anyone. 
+[La Ciudad y los Perros](http://en.wikipedia.org/wiki/The_Time_of_the_Hero) is the best portrayal of how awful kids can be.
+
+###Mindfulness
+
+[Mindfulness for Dummies](http://www.amazon.com/Mindfulness-Dummies-Book-Shamash-Alidina/dp/0470660864) is a great intro.
+
+[Chade-Meng Tang](http://www.nytimes.com/2007/09/01/technology/01google.html?_r=0), engineer at Google, stresses how easily you can incorporate
+mindfulness into a conventionally successful life; that it's not about retreat. Check out his [bestseller](http://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving/dp/0062116924).
+
+[Jon Kabat-Zinn](http://www.youtube.com/watch?v=3nwwKbM_vJc), professor at U-Mass med school, helped bring mindfulness into modernity.
+
+###Transportation & Urbanism
+
+[Transportationist](http://blog.lib.umn.edu/levin031/transportationist/) is the one-stop shop for transportation. David Levinson is almost
+as productive as Dave Eggers.
+
+[Bus Rapid Transit](http://en.wikipedia.org/wiki/Bus_rapid_transit) is the H&M of transit: you get about 75% of the quality
+for 10% of the price. The best way to improve accessibility.
+
+[Antiplanner](http://ti.org/antiplanner/), or Randal O'Toole of Cato, highlights transportation failures that cities would
+love to gloss over.
+
+[Market Urbanism](http://marketurbanism.com/) means inclusive cities.
