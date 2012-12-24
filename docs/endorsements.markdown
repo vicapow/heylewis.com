@@ -56,7 +56,7 @@ for 10% of the price. The best way to improve accessibility.
 
 ###Motion Graphics
 
-[Greyscale Gorilla](http://greyscalegorilla.com/blog/) and [AETuts](http://ae.tutsplus.com/) teach After Effects.
+[Greyscale Gorilla](http://greyscalegorilla.com/blog/) and [AETuts](http://ae.tutsplus.com/) taught me After Effects.
 
 [Jr.caneste](http://vimeo.com/jrcanest) (Jorge Canedo Estrada) is my favorite animator even though it's intimidating that he's four years younger than me.
 
