@@ -1,6 +1,8 @@
 [back](/writing.html)
 
-# Food
+# French People are Obsessed with Food
+
+Originally published in [The Leeds Student](http://www.leedsstudent.org/).
 
 In the 1733 Poor Richard's Almanac, Benjamin Franklin wrote, "Eat to live, and not live to eat." This Christmas I had the chance to reflect on Franklin's maxim during two weeks with my friend and her family in Nantes, France—an appropriate setting, given that Franklin appropriated his quote from the French playwright Moliere.
 
