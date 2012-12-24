@@ -78,3 +78,5 @@ Podcasts: I'm addicted to [This American Life](http://www.thisamericanlife.org/)
 makes you seem more intellectual.
 
 Music: The Pixies, Deerhoof, Fidlar, Raekwon, GZA, Shakira
+
+TV: The Wire, Bored to Death, New Girl, The League
