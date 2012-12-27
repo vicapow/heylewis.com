@@ -33,9 +33,11 @@ I like to write for websites and student papers.
 
 [Linear Algebra Student Enters the Matrix](/writing/thematrix.html)
 
-[INS Struggles to Close Porous Bloomfield/Oakland Border](/writing/bloomfield.html)
-
 [Tensions Flare Between Indian, Pakistani Food Carts](/writing/foodcarts.html)
+
+[Dining Dollar Soars in Morning Trading](/writing/diningdollars.html)
+
+[INS Struggles to Close Porous Bloomfield/Oakland Border](/writing/bloomfield.html)
 
 [Relationship Outlasts Add/Drop Period](/writing/adddrop.html)
 
