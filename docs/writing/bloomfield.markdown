@@ -1,4 +1,8 @@
-INS Struggles to Close Porous Oakland-Bloomfield Border
+[back](/writing.html)
+
+# INS Struggles to Close Porous Oakland-Bloomfield Border
+Originally published in the [The Pittiful News](http://www.pittifulnews.com)
+
 -Bloomfield Bridge-
 
 It's a humid summer night, and Immigration and Naturalization Officers Marshall O'Brien and Terrance Cortez are dressed in fatigues and utility vests. The heat does not phase them.
