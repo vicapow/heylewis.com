@@ -1,7 +1,7 @@
 [back](/writing.html)
 
 # Relationship Outlasts Add/Drop Period
-Originally published in the [Th Pittiful News](http://www.pittifulnews.com)
+Originally published in the [The Pittiful News](http://www.pittifulnews.com)
 
 The budding romance between Liz Olmstead and Jason Milikan passed a milestone Monday, as the relationship's add/drop period came to a close. While it is still possible to "withdraw" from the commitment, ending the relation-ship now entails consequences, including the loss of mutual friends.
 The now-fomented relationship came as something of a surprise to Milikan. 
