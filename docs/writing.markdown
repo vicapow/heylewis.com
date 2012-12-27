@@ -22,3 +22,16 @@ I like to write for websites and student papers.
 [French people are obsessed with food](/writing/food.html)
 
 [Pan Flute Mockery a Disease of Ignorance](/writing/pan-flutes.html)
+
+##The Pittiful News
+
+[INS Struggles to Close Porous Bloomfield/Oakland Border](/writing/bloomfield.html)
+
+[Tensions Flare Between Indian, Pakistani Food Carts](/writing/foodcarts.html)
+
+[Relationship Outlasts Add/Drop Period](/writing/adddrop.html)
+
+[Pittsburgh Now Named after Brad Pitt](/writing/bradpitt.html)
+
+[Linear Algebra Student Enters the Matrix](/writing/thematrix.html)
+
