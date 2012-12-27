@@ -11,11 +11,15 @@ I like to write for websites and student papers.
 
 [South Oakland barbershop a time capsule of neighorhood history](/writing/barbershop.html)
 
+[Groundhog Day Is Decadent and Depraved](/writing/groundhogday.html)
+
 [Of Testicles, Twizzlers, and Cans of Worms: The Story of My Varicocele](/writing/varicocele.html)
 
 [Accents of Approval](/writing/accents.html)
 
 [Hasbro Movie Pitches](http://omnibrow.com/hasbro-movie-pitches/)
+
+[What's in a Name? I Forget](/writing/names.html)
 
 [Gallagher’s Travels](/writing/gallagher.html)
 
@@ -25,6 +29,10 @@ I like to write for websites and student papers.
 
 ##The Pittiful News
 
+[Guy from Downingtown Repping Philadelphia Hard](/writing/phildelphia.html)
+
+[Linear Algebra Student Enters the Matrix](/writing/thematrix.html)
+
 [INS Struggles to Close Porous Bloomfield/Oakland Border](/writing/bloomfield.html)
 
 [Tensions Flare Between Indian, Pakistani Food Carts](/writing/foodcarts.html)
@@ -33,5 +41,7 @@ I like to write for websites and student papers.
 
 [Pittsburgh Now Named after Brad Pitt](/writing/bradpitt.html)
 
-[Linear Algebra Student Enters the Matrix](/writing/thematrix.html)
+[Area Sophomore Acting Sophomoric](/writing/sophomore.html)
+
+
 
