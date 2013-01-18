@@ -3,8 +3,7 @@
 # Groundhog Day in Punxatawney: Because Phil Said So
 Originally published in the [Pitt News](http://pittnews.com/index.php/component/content/article?id=64449)
 
-Today I endorse Groundhog Day.
-In its own mythical sense, it determines winter’s end, and thus, spring’s dawn. I had to see it for myself.
+Today I endorse Groundhog Day. It determines winter’s end, and thus, spring’s dawn. I had to see it for myself.
 On Feb. 2, at 1 a.m., I realized I was ignorant of how much more winter we would have. So, I swallowed a 5-Hour Energy drink and hit the road with my friend Rob.
 At 3:30 a.m., we navigated a traffic jam through downtown Punxsutawney. It is weird to be in a traffic jam in a rural area, especially so early in the morning, and it is even weirder to do it on a tandem unicycle, but fortunately we were not on a tandem unicycle.
 After parking, I stepped out into the cold. The wintry wind blew so cold that I was forced to warm up with an extra pair of pants, an extra hat, and an extra large amount of alcohol. Then, once we were too warm to drive, Rob and I boarded a yellow school bus that drove out to Gobblers Knob, where we were told the action would happen, just as it always does at places with names like Gobblers Knob.
