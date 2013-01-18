@@ -1,3 +1,8 @@
+[back](/writing.html)
+
+# Review of Triumph of the City by Ed Glaeser
+Originally published in the [RustWire](http://www.rustwire.com)
+
 The last ten years have stoked a renaissance in the genre of “books that make social science research accesible to laypersons while additionally developing the author’s own theory.” The king of the genre is the journalist Malcolm Gladwell, who set airport bookstores ablaze with “The Tipping Point,” “Blink,” and “Outliers.”
 
 Jonah Lehrer is a journalist who wrote “Proust Was a Neuroscientist” and “How We Decide.” Tom Vanderbilt is a journalist who wrote “Traffic.” People love these books. One of my ex-roommates has severe dyslexia and, last winter, he hadn’t read a book in five years. I gave him “Outliers,” and within a few months he had read everything Gladwell ever wrote. Now Victor is truly an outlier.
