@@ -23,4 +23,5 @@ Sometimes I make motion graphics for the private sector.
 ###Community Energy
 <iframe width="560" height="315" src="http://www.youtube.com/embed/HIFMfw46bPc?list=UUv2rfbkpyCo3L4VkMWCeDdw" frameborder="0" allowfullscreen></iframe>
 
-
+###Dozen Cupcakes
+<iframe frameborder="0" width="480" height="360" src="http://www.dailymotion.com/embed/video/x3mznf"></iframe>
