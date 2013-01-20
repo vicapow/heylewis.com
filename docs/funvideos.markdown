@@ -9,7 +9,7 @@
 
 ###Cloversteeled: Prelude to a Super Bowl Riot
 A short documentary of the overwhelming ecstasy of a Steelers super bowl victory. Footage appeared on KDKA!
-<iframe src="http://player.vimeo.com/video/3177379" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/3177379">Cloversteeled: Lewis' Super Bowl Sunday</a> from <a href="http://vimeo.com/pittnews">Pitt News Multimedia</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/3177379" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 ###Making of Drive
 Starring Ryan Gosling.
