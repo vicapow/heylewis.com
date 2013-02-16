@@ -70,7 +70,7 @@ var parseDate = d3.time.format("%Y").parse;
 
 var color = d3.scale.ordinal().range(["#B3E2CD","#FDCDAC","#CBD5E8","#F4CAE4","#E6F5C9","#FFF2AE","#F1E2CC"]);
 
-d3.csv("d3/roaddata.csv", function(error, data) {
+d3.csv("roaddata.csv", function(error, data) {
 
 color.domain( d3.keys(data[0]).filter(function(key) { return key !== "date"; }));
 
