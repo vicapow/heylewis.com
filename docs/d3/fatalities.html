@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {font: 10px sans-serif;}
+
+
+  .top {
+      font-size: 13px;
+      font-weight: 300;
+      text-anchor: middle;
+      fill: #fff;
+        }
+
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: white;
+    shape-rendering: crispEdges;
+    stroke-width: 1px;
+    stroke-dasharray: 2,5;
+  }
+
+  .axis text {
+    font-size: 0px;
+    stroke: none;
+}
+
+  .cursor {
+    fill: black;
+    pointer-events: none;
+  }
+
+  .title {
+      font: 20px sans-serif;
+      text-anchor: left;
+      fill: black;
+  }
+
+  .label{
+    font: 14px sans-serif;
+  }
+
+  .cursorlabel{
+    font: 12px sans-serif;
+  }
+
+  .area {
+    fill: black;
+    stroke: none;
+  }
+
+  .line {
+    fill: none;
+    stroke: black;
+    stroke-width: 1px;
+  }
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.js"></script>
+<script>
+
+var margin = {top: 50, right: 80, bottom: 30, left: 50},
+    width = 1200- margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
+
+var parseDate = d3.time.format("%Y").parse;
+
+
+var color = d3.scale.ordinal().range(["#B3E2CD","#FDCDAC","#CBD5E8","#F4CAE4","#E6F5C9","#FFF2AE","#F1E2CC"]);
+
+d3.csv("http://localhost:8888/Google%20Drive/GitHub/d3-2/roaddata.csv", function(error, data) {
+
+color.domain( d3.keys(data[0]).filter(function(key) { return key !== "date"; }));
+
+data.forEach( function(d) { d.date = parseDate(d.date); });
+
+var cities = color.domain().map(function(name) {
+    return {
+      name: name,
+      values: data.map(function(d) {return {date: d.date, temperature: +d[name]};})
+      };
+    });
+
+var x0 = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .05)
+    .domain(cities.map(function(d) { return d.name; }));
+
+var x1 = d3.time.scale()
+    .domain(d3.extent(data, function(d) { return d.date; }))
+    .range([0,x0.rangeBand()]);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("class",".big")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var title = d3.select("svg").append("text")
+    .attr("class", "title")
+    .attr("x",margin.left*2)
+    .attr("y",0)
+    .attr("dy","1.5em")
+    .attr("dx","-1.5em")
+      .text("Road Fatalities per 100,000 population")
+    .attr("transform","(0,0)");
+
+var y = d3.scale.linear().range([height,0]).domain([
+    d3.min(cities, function(c) { return d3.min(c.values, function(v) { return v.temperature; }); }),
+    d3.max(cities, function(c) { return 1.4*d3.max(c.values, function(v) { return v.temperature; }); })
+    ]);
+
+var xAxis = d3.svg.axis()
+    .scale(x1)
+    .orient("bottom");
+
+var line = d3.svg.line()
+    .x(function(d) { return x1(d.date); })
+    .y(function(d) { return y(d.temperature); });
+
+var area = d3.svg.area()
+    .x(function(d) { return x1(d.date); })
+    .y0(height)
+    .y1(function(d) { return y(d.temperature); });
+
+var city = svg.selectAll(".city")
+    .data(cities)
+    .enter()
+  .append("g")
+    .attr('class','city')
+    .attr("transform", function(d, i) { return "translate(" + x0(d.name) + ",0)"; })
+    .on("mousemove", mousemove);
+
+city.append("svg:rect")
+      .attr("height",height)
+      .attr("width",x0.rangeBand())
+      .attr("fill","white");
+
+city.append("path")
+    .attr("class", "area")
+    .attr("d", function(d) { return area(d.values); })
+    .style("fill", function(d) { return color(d.name); });
+
+var areas=d3.selectAll('.area');
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .ticks(15)
+    .tickSize(-x0.rangeBand(),0,0);
+
+city.append("g")
+    .attr("class", "y axis")
+    .call(yAxis);
+
+city.append("path")
+    .attr("class", "line")
+    .attr("d", function(d) { return line(d.values); });
+
+city.append("text")
+    .attr("class", "label")
+    .attr("y",height)
+    .attr("dy","1.5em")
+    .attr("dx","-1.5em")
+  .text("date")
+    .attr("transform", "translate(0,0)");
+   
+var cursor = city.append("circle")
+    .attr("r", 3)
+    .attr("transform", "translate(0,0)")
+    .attr("class", "cursor");
+
+var cursorlabel = city.append("text")
+    .attr("class","cursorlabel")
+    .attr("dy","-1.5em")
+    .attr("dx","-1em")
+    .attr("transform", "translate(0,0)")
+  .text("hello");
+
+function mousemove() {
+  var mouseX  = d3.mouse(this)[0],
+    graph_width = x0.rangeBand(),
+    index = Math.floor( ( mouseX / graph_width ) * data.length ),
+    j = Math.round(index / (data.length - 1) * (data.length - 6));
+  city.each(function(d){
+    var u = d.values[index],
+      self=d3.select(this);
+    self.select('.cursor')
+        .attr('transform', 'translate(' + x1(u.date) + ',' + y(u.temperature) + ')');
+    self.select('.label')
+        .attr('transform', 'translate(' + x1(u.date) + ',0)')
+      .text(u.date.getFullYear());
+    self.select('.cursorlabel')
+        .attr('transform', 'translate(' + x1(u.date) + ',' 
+          + (y(d3.max(d.values.slice(j, j + 8), function(d) { return d.temperature; }))) 
+          + ')')
+      .text(function(d){return d.values[index].temperature;});
+    })
+  }
+
+var gBracket = svg.selectAll("top")
+    .data(x0.domain())
+  .enter().append("g")
+    .attr("class", "g-bracket")   
+    .attr("transform", function(d) { return "translate(" + x0(d) + ",0)"; });
+
+gBracket.append("path")
+    .attr("d", "M0,0H" + x0.rangeBand() + "V24L" + (x0.rangeBand() / 2) + ",32L0,24Z");
+
+gBracket.append("text")
+    .attr("class","top")
+    .attr("x", x0.rangeBand() / 2)
+    .attr("y", 12)
+    .attr("dy", ".35em")
+    .text(function(d) { console.log(d); return new String(d);
+    })
+    .style("fill","white");
+  
+});
+
+
+
+</script>
+</body>
