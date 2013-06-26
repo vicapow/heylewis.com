@@ -1,0 +1,72 @@
+ body {
+      font: 11px sans-serif;
+    }
+
+    .bar rect {
+      fill: steelblue;
+      shape-rendering: crispEdges;
+    }
+
+    .bar text {
+      fill: #fff;
+    }
+
+    .axis path, .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+    }
+
+    .y.axis .tick.major line {
+    stroke: #000;
+    stroke-dasharray: 2,2;
+    }
+
+    .zero{
+      stroke: #000;
+      stroke-width: 1.5px;
+    }
+
+    .sdBox{
+      fill: steelblue;
+      opacity: 0.4;
+      stroke: none;
+    }
+
+    .sliderLabel {
+      font-size: 15px;
+    }
+
+    .bigLabel {
+      font-size: 25px;
+    }
+
+    .plotLabel{
+      font-size: 15px;
+
+    }
+
+div.tooltip {   
+  position: absolute;           
+  text-align: center;  
+  opacity: 0.5;         
+  width: 60px;                  
+  height: 28px;                 
+  padding: 2px;             
+  font: 12px sans-serif;        
+  background: lightsteelblue;   
+  border: 0px;      
+  border-radius: 8px;           
+  pointer-events: none;         
+}
+
+div.tooltip text {   
+  margin-top: 5px;       
+}
+
+#aslider{
+  height: 300px;
+  position: absolute;
+  left: 700px;
+  top: 100px;
+}
